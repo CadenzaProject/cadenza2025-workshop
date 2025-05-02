@@ -64,6 +64,6 @@ If you have any queries please contact the organisers by emailing <a href="mailt
 
     <h3>Sponsorship and rewards</h3>
 
-    Sponsors have provided at least 2,000 GBP worth of support to the workshop either through challenge and paper prizes, or through computational resources to support the Clarity Challenge. In return sponsors will be acknowledged on the website and in the workshop proceedings.
+    IEEE SPS have provided a prize pot of 1,000 USD. 
 
 </div>

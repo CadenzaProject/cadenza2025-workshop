@@ -37,6 +37,10 @@ The challenge was launched on July 2024, presenting two tracks:
 * Rebalancing the level of instruments within a small classical music ensemble to allow for personal remixing for hearing aids users
 </p>
 
+<p>
+The 2nd Cadenza Challenge (CAD2) is part of the [IEEE SPS Challenge Program](https://signalprocessingsociety.org/publications-resources/challenges-and-data-collections),
+</p>
+
 </div>
 
 <div class="col-md-3" style="background:#FFF; margin:0px 0px 0px 0px">
