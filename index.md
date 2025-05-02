@@ -16,7 +16,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2025
     </a> -->
 
 <p>
-We are now pleased to announce the ICA 2025 special session **Cadenza Machine Learning Challenge (CAD2): Improving Music for People with Hearing Loss**.
+We are now pleased to announce the ICA 2025 special session **Cadenza Machine Learning Challenge (CAD2)**: Improving Music for People with Hearing Loss**.
 This will be an in-person event taking place in New Orleans between 18-23 of May.
 </p>
 

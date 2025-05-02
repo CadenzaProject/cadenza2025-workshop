@@ -7,6 +7,7 @@ Cadenza-2023 will be a one-day online workshop.
 
 <p>Programme will be available soon</p>
 
+<!--
 <div class="panel panel-default">
 <div class="panel-body">
 <div class="card  m-3">
@@ -263,4 +264,5 @@ Cadenza-2023 will be a one-day online workshop.
 </div>
 <br/>
 
+-->
 
