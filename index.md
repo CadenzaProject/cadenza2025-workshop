@@ -85,6 +85,7 @@ The 2nd Cadenza Challenge (CAD2) is part of the [IEEE SPS Challenge Program](htt
                 </ul>
             </div>
         -->
+        <!--
         <h2> Registration </h2>
             <div class="board-list">
                 <ul>
@@ -93,7 +94,7 @@ The 2nd Cadenza Challenge (CAD2) is part of the [IEEE SPS Challenge Program](htt
                     <li> <a href="dates.html">More info</a> </li> 
                 </ul>
             </div>
-
+        -->
         <!--<h3> News </h3>
     
             <div class="board-list">
