@@ -39,7 +39,7 @@ The challenge was launched on July 2024, presenting two tracks:
 </p>
 
 <p>
-The 2nd Cadenza Challenge (CAD2) is part of the [IEEE SPS Challenge Program](https://signalprocessingsociety.org/publications-resources/challenges-and-data-collections),
+The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessingsociety.org/publications-resources/challenges-and-data-collections">IEEE SPS Challenge Program</a>,
 </p>
 
 </div>
