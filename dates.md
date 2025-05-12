@@ -11,7 +11,7 @@ title: Important Dates
     <h2>Camera-ready paper</h2>
         30th November, 2023
 
-     <h2>Cadenza-2023 Workshop and release of Challenge results</h2>
+     <h2>Cadenza-2025 Workshop and release of Challenge results</h2>
         8th December 2023 - Europe/Africa time zone
     </div>
 
