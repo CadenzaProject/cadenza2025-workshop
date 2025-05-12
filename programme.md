@@ -32,6 +32,9 @@ Cadenza-2023 will be a one-day online workshop.
 </div>
 </div>
 
+-->
+
+<!--
 
 <h1>Keynote 1</h1>
 <div class="card m-3">
@@ -66,6 +69,9 @@ Cadenza-2023 will be a one-day online workshop.
     </div>
 </div>
 
+-->
+
+<!--
 
 <h1>Cadenza Challenge papers</h1>
 <div class="card  m-3">
@@ -165,11 +171,11 @@ Cadenza-2023 will be a one-day online workshop.
                 <div class="card-body">
                 <h1 class="card-title">Who, Where, When, Why, What and How of listening to music via hearing aids</h1>
                 
-                <!--
+               
                 <h3>Abstract</h3>
 
                 <p></p>
-                -->
+                
 
                 <h3>Bio</h3>
 
@@ -182,6 +188,10 @@ Cadenza-2023 will be a one-day online workshop.
     </div>
 </div>
 
+-->
+
+<!--
+
 <div class="card m-3">
     <a name="invited1"></a>
     <div class="card-header">
@@ -192,13 +202,13 @@ Cadenza-2023 will be a one-day online workshop.
             <div class="col-sm-9">
                 <h1 class="lead">Robin Hake <div class="text-muted">Universit&#228;t Oldenburg, Germany</div></h1>
                 <h1> Developmental of Musical Scene Analysis Test</h1>
-                <!--
+                
                 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractRobin" aria-expanded="false" aria-controls="collapseAbstractRobin">
                 Abstract and Bio
                 </button>
-                -->
+                
             </div>
-            <!--
+            
             <div class="collapse" id="collapseAbstractRobin">
                 <div class="card-body">
                 <h1 class="card-title">Developmental of Musical Scene Analysis Test</h1>
@@ -213,10 +223,14 @@ Cadenza-2023 will be a one-day online workshop.
             
                 </div>
             </div>
-            -->
+            
         </div>
     </div>
 </div>
+
+-->
+
+<!--
 
 <div class="card m-3">
     <a name="invited1"></a>
@@ -249,6 +263,9 @@ Cadenza-2023 will be a one-day online workshop.
     </div>
 </div>
 
+--> 
+
+<!--
 <h1>Cadenza Challenge plans</h1>
 <div class="card  m-3">
     <div class="card-body">
