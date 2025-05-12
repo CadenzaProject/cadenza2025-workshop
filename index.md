@@ -41,7 +41,7 @@ The challenge was launched on July 2024, presenting two tracks:
 
 
 <p>
-The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessingsociety.org/publications-resources/data-challenges/2nd-cadenza-challenge-improving-music-those-hearing-loss">IEEE SPS Challenge Program</a>,
+The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessingsociety.org/publications-resources/data-challenges/2nd-cadenza-challenge-improving-music-those-hearing-loss">IEEE SPS Challenge Program</a>.
 </p>
 
 </div>
