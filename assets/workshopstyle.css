@@ -85,3 +85,7 @@ h3 {
   padding: -20px;
   margin: 0px 0px 0px -20px;
 }
+
+li.conf {
+  width: 100px;
+}
