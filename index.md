@@ -16,7 +16,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2025
     </a> -->
 
 <p>
-We are now pleased to announce the ICA 2025 special session <strong>Cadenza Machine Learning Challenge (CAD2)</strong>: Improving Music for People with Hearing Loss**.
+We are now pleased to announce the ICA 2025 special session <strong>Cadenza Machine Learning Challenge (CAD2): Improving Music for People with Hearing Loss</strong>
 This will be an in-person event taking place in New Orleans between 18-23 of May.
 </p>
 
@@ -28,15 +28,17 @@ it can be difficult to identify and distinguish instruments, and understanding l
 This reduces the enjoyment of music and can lead to disengagement from both listening and music-making, 
 diminishing the positive effects music can have on health and well-being.</p>
 
-<p>The Cadenza workshops are designed to stimulate the development of systems to improve music for people with a hearing loss.
+<p>
+The Cadenza workshops are designed to stimulate the development of systems to improve music for people with a hearing loss.
 The aim of this ICA Special Session is to report on the 
 <a href="https://cadenzachallenge.org/docs/cadenza2/cc2_intro">Second Cadenza Challenge</a>. 
 The challenge was launched on July 2024, presenting two tracks: 
+</p>
     <ul>
         <li>Improving the intelligibility of lyrics for pop/rock music while not harming audio quality</li>
         <li>Rebalancing the level of instruments within a small classical music ensemble to allow for personal remixing for hearing aids users</li>
     </ul>
-</p>
+
 
 <p>
 The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessingsociety.org/publications-resources/data-challenges/2nd-cadenza-challenge-improving-music-those-hearing-loss">IEEE SPS Challenge Program</a>,
