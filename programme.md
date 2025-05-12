@@ -4,7 +4,7 @@ title: Programme
 ---
 
 
-<p>Programme</p>
+Programme
 
 
 <div class="panel panel-default">
@@ -18,8 +18,6 @@ title: Programme
     <tr> <td>15:40 </td>  <td> <a href="#contributed_papers">  Contributed Papers</a></td> </tr>
 </tbody>
 </table>
-</div>
-</div>
 </div>
 </div>
 
@@ -61,3 +59,5 @@ title: Programme
     </div>
 </div>
 
+</div>
+</div>
