@@ -8,7 +8,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2025
 <div class="col-md-9">
 
     <font color="#1a8870" size="2pt">
-        <p><big><i><b>18-23 May 2025</b></i></big></p>
+        <p><big><i><b>22 May 2025</b></i></big></p>
     </font>
 
 <!--<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
@@ -39,7 +39,7 @@ The challenge was launched on July 2024, presenting two tracks:
 </p>
 
 <p>
-The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessingsociety.org/publications-resources/challenges-and-data-collections">IEEE SPS Challenge Program</a>,
+The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessingsociety.org/publications-resources/data-challenges/2nd-cadenza-challenge-improving-music-those-hearing-loss">IEEE SPS Challenge Program</a>,
 </p>
 
 </div>
