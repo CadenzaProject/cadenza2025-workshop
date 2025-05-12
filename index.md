@@ -49,7 +49,7 @@ The 2nd Cadenza Challenge (CAD2) is part of the <a href="https://signalprocessin
 <div class="col-md-3" style="background:#FFF; margin:0px 0px 0px 0px">
     <div class="box">
         <center>
-            <font color="#1a8870"><b>Cadenza-2023 Workshop</b></font>
+            <font color="#1a8870"><b>Cadenza-2025 Workshop</b></font>
         </center>
         <!-- <center><i>Virtual Workshop</i></center> -->
         <h2>Organisers</h2>
