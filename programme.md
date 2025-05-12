@@ -9,9 +9,9 @@ title: Programme
 <div class="card-body">
 <table style="margin-left: 1em;">
 <tbody>
-    <tr> <td>15:15 </td> <td style="padding-bottom: 1em;"> Welcome</td></tr>
-    <tr> <td>15:20 </td> <td style="padding-bottom: 1em;"> The Cadenza CAD2: Overview</td> </tr>
-    <tr> <td>15:40 </td> <td style="padding-bottom: 1em;"> <a href="#contributed_papers">  Contributed Papers</a></td> </tr>
+    <tr> <td>15:15 </td> <td> Welcome</td></tr>
+    <tr> <td>15:20 </td> <td> The Cadenza CAD2: Overview</td> </tr>
+    <tr> <td>15:40 </td> <td> <a href="#contributed_papers">  Contributed Papers</a></td> </tr>
 </tbody>
 </table>
 </div>
