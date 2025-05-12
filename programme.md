@@ -27,13 +27,13 @@ title: Programme
 
 
 <h1>Contributed Papers</h1>
-<a name="contributed_papers"></a>
+<a id="contributed_papers"></a>
 <div class="card  m-3">
     <div class="card-body">
         <table>
             <tbody>
                 <tr>
-                    <td width=100px valign="top">15:20-15:40</td><td style="padding-bottom: 1em;"><b>The second Cadenza machine learning challenge (CAD2): Improving music for people with hearing loss.</b> <br /> <span class="author">Trevor J. Cox<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasley<sup>2</sup>, Gerardo Roa Dabike<sup>3</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> (<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford)</i></td>
+                    <td width=100px valign="top">15:20-15:40</td><td style="padding-bottom: 1em;"><b> The second Cadenza machine learning challenge (CAD2): Improving music for people with hearing loss.</b> <br /> <span class="author">Trevor J. Cox<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasley<sup>2</sup>, Gerardo Roa Dabike<sup>3</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> (<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford)</i></td>
                 </tr>
             </tbody>
         </table>
